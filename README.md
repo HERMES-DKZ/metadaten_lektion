@@ -1,4 +1,6 @@
-# Data and Metadata in the Humanities: Structures, Schemas, and Standards
+# Daten und Metadaten in den Geisteswissenschaften: Strukturen, Schemas und Standards
+
+Diese Lektion ist eine deutsche gekürzte Fassung der Lektion [Data and Metadata in the Humanities: Structures, Schemas, and Standards](https://hermes-dkz.github.io/metadata_lesson/). Sie befindet sich zurzeit noch in Bearbeitung. 
 
 Digitalization profoundly impacts the humanities by transforming how knowledge is produced, accessed, and interpreted. Almost everything today is reduced to data, interconnected through processes of digitization, visualization, and publication. Culture and history are increasingly manifested in networked forms, a development greatly enhanced by digital technologies. In this context, data and metadata play essential roles. This lesson is developed as an introduction to the meaning of data and metadata in the Humanities. Learners will get familiar with concepts of data and metadata as well as formats such as XML and JSON and metadata standards. 
 

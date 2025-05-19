@@ -1,21 +1,21 @@
 ---
-title: "Data"
+title: "Daten"
 teaching: 30
 exercises: 10
 ---
 
-::: questions 
-- What is data in the humanities?
-- What are the distinctions between different types of data?
+::: Fragen 
+- Was sind Daten in den Geisteswissenschaften?
+- Was sind die Unterschiede zwischen verschiedenen Arten von Daten?
 :::
 
-::: objectives   
+::: Ziele   
 
-After completing this episode, participants should be able to  
+Nach Abschluss dieser Lerneinheit sollten die Teilnehmenden in der Lage sein  
 
-- differentiate between analogue data, digitised data, and born-digital data,
-- understand how data is categorized, collected, and utilized within humanities research,
-- explore the implications of different data types for different research methods and outcomes.
+- zwischen analogen Daten, digitalisierten Daten und genuin digitalen (born-digital) Daten unterscheiden,
+- verstehen, wie Daten in der geisteswissenschaftlichen Forschung kategorisiert, erhoben und genutzt werden,
+- die Auswirkungen verschiedener Datentypen auf unterschiedliche Forschungsmethoden und Forschungsergebnisse untersuchen.
 :::
 
 ## Types of Data

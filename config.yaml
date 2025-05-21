@@ -18,13 +18,13 @@ carpentry: 'incubator'
 carpentry_description: 'Lesson Description'
 
 # Overall title for pages.
-title: 'Data and Metadata in the Humanities: Structures, Schemas, and Standards'
+title: 'Daten und Metadaten in den Geisteswissenschaften: Strukturen, Schemas und Standards'
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: '2025-01-08' 
+created: '2025-05-19' 
 
 # Comma-separated list of keywords for the lesson
-keywords: 'data, lesson, The Carpentries, Humanities, metadata, Digital Humanities, XML, JSON, metadata standards'
+keywords: 'Daten, Lektion, The Carpentries, Geisteswissenschaften, Metadaten, Digitale Geisteswissenschaften, XML, JSON, Metadatenstandards'
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -34,7 +34,7 @@ life_cycle: 'pre-alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/HERMES-DKZ/metadata_lesson' 
+source: 'https://github.com/HERMES-DKZ/metadaten_lektion' 
 
 # Default branch of your lesson
 branch: 'main'
@@ -72,13 +72,10 @@ episodes:
 - metadata.md
 - metadataformats.md
 - xml.md
-- json.md
 - introduction_standards.md
-- minimumrecord.md
 - mets.md
 - dublincore.md
 - rdf.md
-- xml_schema.md
 
 # Information for Learners
 learners: 

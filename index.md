@@ -3,12 +3,14 @@ site: sandpaper::sandpaper_site
 ---
    
 ::: prereq
-This lesson is being developed specifically for researchers in the humanities and cultural studies and designed for learners with no prior experience.
+Diese Lektion wurde speziell für Forschende in den Geistes- und Kulturwissenschaften entwickelt und richtet sich an Lernende ohne Vorkenntnisse.
 :::  
 
-This lesson is developed as an introduction to the meaning of data and metadata in the Humanities. Learners will get familiar with concepts of data and metadata as well as formats such as XML and JSON and metadata standards.
+Diese Lektion ist als Einführung in die Bedeutung von Daten und Metadaten in den Geisteswissenschaften gedacht. Die Lernenden werden mit den Konzepten von Daten und Metadaten sowie mit Formaten wie XML und JSON und Metadatenstandards vertraut gemacht.
 
 ### Objectives
+
+Lernziele:   
 
 - Providing a basic explanation of the theoretical and methodological implications of working with data.
 - Differentiate between analogue data, digitized data, and born-digital data.
@@ -19,12 +21,12 @@ This lesson is developed as an introduction to the meaning of data and metadata 
 - Differentiate the major types of metadata.
 - Apply metadata concepts to practical challenges.
 - Recognize the role of metadata in the humanities.
-- Write and structure data and metadata in basic XML and JSON format.
-- Explain the terms metadata standard, metadata schema and metadata model.
-- Name the main concepts of the minimum record recommendation, the Dublin Core metadata standard as well as the METS standard.
-- Organize simple metadata within Dublin Core and METS.
-- Write triple for RDF schema.
-- Identify the main elements of an XML Schema and write a valid XML file based on a simple XML Schema. 
+- Schreiben und Strukturieren von Daten und Metadaten in einfachem XML-Format.
+- Verständnis der Begriff Metadatenstandard, Metadatenschema und Metadatenmodell.
+- Kenntnisse der grundlegenden Konzepte des Dublin Core und METS Metadatenstandards. 
+- Organisieren von einfachen Metadaten in den Standards Dublin Core und METS. 
+- Schreiben eines *triple* für ein RDF Schema. 
+
   
     
 

@@ -18,16 +18,16 @@ Nach Abschluss dieser Lerneinheit sollten die Teilnehmenden in der Lage sein
 - die Auswirkungen verschiedener Datentypen auf unterschiedliche Forschungsmethoden und Forschungsergebnisse untersuchen.
 :::
 
-## Types of Data
+## Datentypen
 
-**Analogue Data:**
-Analogue data originates in physical, non-digital formats like handwritten documents, photographs, or physical artefacts.
+**Analoge Daten:**
+Analoge Daten entstehen in physischen, nicht-digitalen Formaten wie handschriftliche Dokumenten, Fotografien oder materielle Objekten.
 
-**digitised Data:**
-digitised data refers to analogue information that has been converted into digital formats through processes such as scanning, encoding, or transcription. This transition expands the accessibility and usability of analogue resources, facilitating modern research methods. Understanding different aspects of digitised data is critical for recognizing how non-digital resources have been adapted to meet digital needs.
+**Digitalisierte Daten:**
+Digitalisierte Daten sind ehemals analoge Informationen, die durch Verfahren wie Scannen, Transkribieren oder Kodieren in digitale Formate überführt wurden. Diese Transformation erweitert nicht nur die Zugänglichkeit, sondern ermöglicht auch die Anwendung digitaler Analysemethoden.  Ein differenziertes Verständnis digitalisierter Daten ist zentral, um nachvollziehen zu können, wie analoge Ressourcen für digitale Nutzungskontexte aufbereitet und angepasst werden.
 
-**Born-Digital Data:**
-Born-digital data is inherently created in digital environments and exists only in these formats . It includes databases, digital texts, or media files that have never existed in physical, analogue form. This distinction highlights how digital-first practices shape contemporary research in the humanities, emphasizing the real-time creation and accessibility of data through digital platforms.
+**Born-Digital Daten (Genuin digitale Daten):**
+Genuin digitale Daten entstehen direkt in digitalen Umgebungen und existieren ausschließlich in diesen Formaten. It includes databases, digital texts, or media files that have never existed in physical, analogue form. This distinction highlights how digital-first practices shape contemporary research in the humanities, emphasizing the real-time creation and accessibility of data through digital platforms.
 
 
 ::: challenge

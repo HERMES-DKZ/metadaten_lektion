@@ -76,9 +76,9 @@ Diese Transformation ermöglicht einen breiteren Zugang, bringt aber auch Einsch
 :::
 :::  
 
-By analogue data, we mean the physical artefacts in the museum. The museum's collection includes numerous physical objects such as sculptures, paintings, and other artefacts that exist solely in their original, non-digital form. For instance, the collection of ancient Egyptian art in the Metropolitan Museum comprises approximately 30,000 objects, as you can see [here](https://www.metmuseum.org/about-the-met/collection-areas/egyptian-art).
+Mit analogen Daten meinen wir die physischen Artefakte im Museum. Die Sammlung des Museums umfasst zahlreiche materielle Objekte wie Skulpturen, Gemälde und andere Artefakte, die ausschließlich in ihrer ursprünglichen, nicht-digitalen Form existieren. So enthält zum Beispiel die Sammlung altägyptischer Kunst im Metropolitan Museum etwa 30.000 Objekte – wie hier zu sehen ist [here](https://www.metmuseum.org/about-the-met/collection-areas/egyptian-art).
 
-By digitised data, we mean for example digitised images. High-resolution photographs of artworks and artefacts, such as paintings, sculptures, and archaeological findings, have been digitised for research and accessibility. These images are accessible through the museum's online collection database.
+Mit digitalisierten Daten meinen wir zum Beispiel digitalisierte Lichtbilder von Objekten. Hochauflösende Fotografien von Kunstwerken und Artefakten – etwa Gemälden, Skulpturen oder archäologischen Fundstücken – wurden digitalisiert, um sie für Forschung und Öffentlichkeit zugänglich zu machen. Diese Bilder sind über die Online-Datenbank der Museumssammlung abrufbar.
 
 Born-Digital Data are some [born-digital photographs or videos](https://www.metmuseum.org/art/collection/search/302616), as well as digital records and databases of the museum's collections, including metadata and detailed descriptions of artworks. The museum's archives include born-digital materials such as exhibition records, curatorial files, and administrative documents created and stored digitally.
 

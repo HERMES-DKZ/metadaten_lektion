@@ -39,15 +39,15 @@ Genuin digitale Daten entstehen direkt in digitalen Umgebungen und existieren au
 Diese Übung lädt dazu ein, die Unterschiede zwischen analogen und digitalen Daten am Beispiel eines Objekts des kulturellen Erbes zu erkunden. Im Mittelpunkt steht die Frage, was geschieht, wenn physische Kunstwerke durch digitale Medien zugänglich gemacht werden.
 Dazu verwenden wir beispielhaft Daten aus der Sammlung des Metropolitan Museum of Modern Art.   
 
-Guiding Question   
+Leitfrage   
 
-What kind of data are we working with when we interact with digitised cultural objects? What happens to the qualities of analogue objects when they are transformed into digital representations?   
+Mit welcher Art von Daten arbeiten wir, wenn wir mit digitalisierten Kulturobjekten interagieren? Und was passiert mit den Eigenschaften analoger Objekte, wenn sie in digitale Repräsentationen überführt werden?   
 
-Step 1: Observation   
+Schritt 1: Beobachtung   
 
-Choose a digital image of an object from the Metropolitan Museum of Modern Art’s online collection (or from another digital museum resource).
-Reflect on the following questions:
-What kind of object is this originally?
+Wähle ein digitales Bild eines Objekts aus der Online-Sammlung des Metropolitan Museum of Modern Art (oder einem anderen digitalen Museumsresportal).
+Reflektiere anschließend über die folgenden Fragen:
+Was für ein Objekt ist das im Original?
 What can you observe on the screen?
 What might be missing compared to experiencing the object in person?   
 

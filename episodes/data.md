@@ -48,28 +48,30 @@ Schritt 1: Beobachtung
 Wähle ein digitales Bild eines Objekts aus der Online-Sammlung des Metropolitan Museum of Modern Art (oder einem anderen digitalen Museumsresportal).
 Reflektiere anschließend über die folgenden Fragen:
 Was für ein Objekt ist das im Original?
-What can you observe on the screen?
-What might be missing compared to experiencing the object in person?   
+Was genau siehst du auf dem Bildschirm – und was bedeutet es, das Objekt als digitale Repräsentation zu sehen?
+Was geht im Vergleich zur direkten Erfahrung mit dem Original möglicherweise verloren?   
 
-Step 2: Guided Discussion   
+Schritt 2: Diskussion   
 
-With the following questions:
-If the original artwork is analogue (physical), and we’re viewing it on a screen, what kind of data are we really working with?
-What happens to the object’s materiality when it is digitized?
-How does digital representation affect our understanding or interpretation?
-What do we gain, and what do we lose, in this transformation?   
+Fragen:
+Wenn das Original ein analoges (physisches) Kunstwerk ist und wir es auf einem Bildschirm betrachten – mit welcher Art von Daten arbeiten wir dann eigentlich?
+Was geschieht mit der Materialität des Objekts, wenn es digitalisiert wird?
+Wie beeinflusst die digitale Repräsentation unser Verständnis oder unsere Interpretation?
+Was gewinnen wir durch diese Transformation – und was geht dabei verloren?   
 
-Step 3: Reflection   
+Schritt 3: Reflektion   
 
-Consider:
-What qualities of an object are difficult or impossible to capture digitally?
-Which digital formats (e.g., high-resolution images, 3D models, metadata) attempt to compensate for these limitations?
-In your own field of study, where do you encounter the analogue-to-digital transformation? How does it affect your research or interpretation?
+Überlege dir:
+Welche Eigenschaften eines Objekts lassen sich nur schwer oder gar nicht digital erfassen?
+Welche digitalen Formate (z. B. hochauflösende Bilder, 3D-Modelle, Metadaten) versuchen, diese Einschränkungen auszugleichen?
+Wo begegnest du in deinem eigenen Fachgebiet der Transformation vom Analogen zum Digitalen? Und wie beeinflusst sie deine Forschung oder Interpretation?
 
 ::: solution 
 ## Output
 
-We're viewing the painting on a computer screen. Everything we see is displayed digitally. Although the original object is analogue, our interaction with it is entirely digital. The painting has been digitized—converted into data (e.g., pixels, metadata) that can be stored, processed, displayed by computers, shared, searched, and manipulated. We are not interacting with the analogue object itself, but with its digital representation. This transformation allows broader access but also introduces limitations: aspects like scale, texture, or true colour may be lost, and we experience only a digital approximation. Understanding this transformation is key to working with data in the digital humanities and is critical for thinking about how cultural knowledge is shaped by the digital medium.   
+Wir betrachten das Gemälde auf einem Computerbildschirm. Alles, was wir sehen, wird digital angezeigt. Obwohl das ursprüngliche Objekt analog ist, erfolgt unsere Interaktion ausschließlich digital. Das Gemälde wurde digitalisiert – also in Daten umgewandelt (z. B. Pixel, Metadaten), die von Computern gespeichert, verarbeitet, angezeigt, geteilt, durchsucht und bearbeitet werden können. Wir interagieren nicht mit dem analogen Objekt selbst, sondern mit seiner digitalen Repräsentation.
+
+Diese Transformation ermöglicht einen breiteren Zugang, bringt aber auch Einschränkungen mit sich: Aspekte wie Maßstab, Materialität oder tatsächliche Farbwirkung können verloren gehen – wir erleben lediglich eine digitale Annäherung. Das Verständnis dieser Transformation ist zentral für den Umgang mit Daten in den Digital Humanities und entscheidend für die Frage, wie unser Wissen über Kultur durch das digitale Medium geprägt wird.   
 
 :::
 :::  

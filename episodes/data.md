@@ -27,17 +27,17 @@ Analoge Daten entstehen in physischen, nicht-digitalen Formaten wie handschriftl
 Digitalisierte Daten sind ehemals analoge Informationen, die durch Verfahren wie Scannen, Transkribieren oder Kodieren in digitale Formate überführt wurden. Diese Transformation erweitert nicht nur die Zugänglichkeit, sondern ermöglicht auch die Anwendung digitaler Analysemethoden.  Ein differenziertes Verständnis digitalisierter Daten ist zentral, um nachvollziehen zu können, wie analoge Ressourcen für digitale Nutzungskontexte aufbereitet und angepasst werden.
 
 **Born-Digital Daten (Genuin digitale Daten):**
-Genuin digitale Daten entstehen direkt in digitalen Umgebungen und existieren ausschließlich in diesen Formaten. It includes databases, digital texts, or media files that have never existed in physical, analogue form. This distinction highlights how digital-first practices shape contemporary research in the humanities, emphasizing the real-time creation and accessibility of data through digital platforms.
+Genuin digitale Daten entstehen direkt in digitalen Umgebungen und existieren ausschließlich in diesen Formaten. Dazu zählen etwa Datenbanken, digitale Texte, audiovisuelle Medien oder computergenerierte Inhalte, die nie in physischer Form vorlagen. Diese Datenform steht exemplarisch für eine digital geprägte Forschungspraxis, in der Daten in Echtzeit erzeugt, verarbeitet und verbreitet werden – und die damit neue Möglichkeiten, aber auch neue Anforderungen für die geisteswissenschaftliche Arbeit schafft.
 
 
 ::: challenge
-## Exercise
+## Übung
 
 
-**Analogue vs. Digital – What Are We Really Looking At?**
+**Analog vs. Digital – Was sehen wir eigentlich?**
 
-This exercise invites you to explore how analogue and digital data differ by looking at a cultural heritage object. It focuses on what happens when physical artworks are made accessible through digital media. 
-Let’s take some data from the Metropolitan Museum of Modern Art’s collection.   
+Diese Übung lädt dazu ein, die Unterschiede zwischen analogen und digitalen Daten am Beispiel eines Objekts des kulturellen Erbes zu erkunden. Im Mittelpunkt steht die Frage, was geschieht, wenn physische Kunstwerke durch digitale Medien zugänglich gemacht werden.
+Dazu verwenden wir beispielhaft Daten aus der Sammlung des Metropolitan Museum of Modern Art.   
 
 Guiding Question   
 

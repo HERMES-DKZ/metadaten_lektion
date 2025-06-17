@@ -1,28 +1,28 @@
 ---
-title: "Metadata"
+title: "Metadaten"
 teaching: 30
 exercises: 0
 ---
 
 :::::::::::::::::::::::::::::::::::::: questions 
 
-- What is metadata?
-- What are major types of metadata?
+- Was sind Metadaten?
+- Was sind die wichtigsten Arten von Metadaten?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: objectives
 
-After completing this episode, participants should be able to  
+Nach Abschluss dieser Einheit sollten die Teilnehmenden in der Lage sein  
 
-- understand metadata basics,
-- differentiate metadata from data,
-- differentiate the major types of metadata,
-- apply metadata concepts to practical challenges,
-- recognise the role of metadata in the humanities.
+- die Grundlagen von Metadaten zu verstehen,
+- Metadaten von eigentlichen Daten zu unterscheiden,
+- die wesentlichen Arten von Metadaten zu differenzieren,
+- Metadatenkonzepte auf praktische Aufgaben anzuwenden,
+- die Bedeutung von Metadaten in den Geisteswissenschaften zu erkennen.
 ::::::::::::::::::::::::::::::::::::::::::::::::    
   
-## Metadata Types, Functions, and Contexts
+## Metadaten: Typen, Funktionen und Kontexte
 
 Metadata is a form of data that describes other data. Metadata provides meaningful information that makes it easier to find, identify, understand, handle, and preserve the primary data.
 

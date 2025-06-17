@@ -43,12 +43,12 @@ Zum Beispiel definiert die strukturelle Metadatenbeschreibung eines digitalisier
 - Beziehungen zwischen Abschnitten (z. B. Kapitel, Randbemerkungen, Glossen)
 - Verknüpfungen zwischen Text und entsprechenden Abbildungen, etwa Buchmalereien oder Annotationen.
 
-**Administrative metadata** provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it. There are several subsets of administrative data, including: 
+**Administrative Metadaten** liefern Informationen, die für die Verwaltung einer Ressource erforderlich sind – etwa wann und wie sie erstellt wurde, welchen Dateityp sie hat, weitere technische Angaben sowie Informationen darüber, wer Zugriff darauf hat. Es gibt mehrere Unterkategorien administrativer Metadaten, darunter: 
 
-− Rights management metadata, which deals with intellectual property rights
-− Preservation metadata, which contains information needed to archive and preserve a resource
+− Rechteverwaltungsmetadaten, die sich mit Urheber- und Nutzungsrechten befassen
+− Metadaten zur Erhaltung, die Informationen zur Archivierung und langfristigen Bewahrung einer Ressource enthalten.
 
-Administrative metadata is essential for managing the life cycle of resources. For example, rights management metadata informs whether a researcher can legally reproduce an image in a publication, while preservation metadata supports digital preservation practices to protect fragile manuscripts.
+Administrative Metadaten sind entscheidend für das Management des Lebenszyklus von Ressourcen. So informiert etwa die Rechteverwaltung darüber, ob ein/eine Forscher/Forscherin ein Bild rechtlich in einer Publikation verwenden darf, während Erhaltungsmetadaten digitale Archivierungsstrategien unterstützen, um fragile Manuskripte langfristig zu sichern.
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 

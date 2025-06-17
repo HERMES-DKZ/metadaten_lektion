@@ -90,17 +90,17 @@ Diese Datentypen werden auf unterschiedliche Weise genutzt und prägen sowie unt
 
 **Digitalisierte Daten** verändern die Zugänglichkeit einer physischen Quellen grundlegend und ermöglichen den ortsunabhängigen Zugriff über digitale Plattformen und Repositorien. Dieser Wandel demokratisiert die Forschung, indem er geografische Barrieren überwindet und vergleichende Studien erleichtert. Darüber hinaus beinhaltet die Digitalisierung häufig Metadaten und Suchfunktionen, die die Auffindbarkeit und Nutzbarkeit analoger Quellen erheblich verbessern. Die Digitalisierung wirft jedoch Bedenken hinsichtlich der Datenintegrität, eines möglichen Verlusts von Kontext sowie einer bevorzugten Behandlung bestimmter Sammlungen gegenüber anderen auf.
 
-**Born-digital data** ist, im Gegensatz dazu, vernherein dynamisch angelegt und für die Integration in digitale Umgebungen konzipiert. Sie fördert kollaborative und interdisziplinäre Forschung, da sie in Echtzeit geteilt, aktualisiert und analysiert werden kann. Ihre rechnergestützten Potenziale – etwa für maschinelles Lernen oder Datenvisualisierung – eröffnen neue Wege insbesondere in den Digital Humanities, der Data Science oder der Netzwerkanalyse. Gleichzeitig bringt sie Herausforderungen mit sich: etwa hinsichtlich der Langzeitarchivierung, des Datenschutzes oder der Ephemerität digitaler Formate.
+**Born-digital data** ist, im Gegensatz dazu, vornherein dynamisch angelegt und für die Integration in digitale Umgebungen konzipiert. Sie fördert kollaborative und interdisziplinäre Forschung, da sie in Echtzeit geteilt, aktualisiert und analysiert werden kann. Ihre rechnergestützten Potenziale – etwa für maschinelles Lernen oder Datenvisualisierung – eröffnen neue Wege insbesondere in den Digital Humanities, der Data Science oder der Netzwerkanalyse. Gleichzeitig bringt sie Herausforderungen mit sich: etwa hinsichtlich der Langzeitarchivierung, des Datenschutzes oder der Ephemerität digitaler Formate.
 
-Moreover, these types of data often interact within hybrid research workflows. For instance, digitised analogue data can be enriched through computational analysis alongside born-digital datasets, creating new layers of insight. Similarly, born-digital data may prompt the re-examination of analogue sources, fostering a cyclical process of discovery and reinterpretation. This interplay highlights the evolving landscape of knowledge production, where diverse data types converge to address complex research questions. 
+Zudem interagieren diese Datentypen häufig in hybriden Forschungsabläufen. So können beispielsweise digitalisierte analoge Daten durch rechnergestützte Analysen gemeinsam mit born-digital-Daten angereichert werden, wodurch neue Erkenntnisebenen entstehen. Ebenso kann born-digitales Material Anlass geben, analoge Quellen neu zu untersuchen – ein zyklischer Prozess der Entdeckung und Neubewertung. Dieses Zusammenspiel verdeutlicht die sich wandelnde Landschaft der Wissensproduktion, in der verschiedene Datentypen zusammenwirken, um komplexe Forschungsfragen zu adressieren. 
   
 ::: callout
 ## Outcome
-How do institutional infrastructures, such as libraries, archives, and data centres, support these processes and navigate the challenges of balancing preservation, access, and innovation?
+Wie unterstützen institutionelle Infrastrukturen wie Bibliotheken, Archive und Datenzentren diese Prozesse und wie meistern sie die Herausforderung, Bewahrung, Zugang und Innovation in Einklang zu bringen?
 :::  
     
 ::: keypoints  
-- Analogue data is preserved in magazines, archives, or physical collections. 
-- digitised data is a transformation of analogue data into digital form. 
-- Born-digital data has no analogue representation. 
+- Analoge Daten werden in Magazinen, Archiven oder physischen Sammlungen aufbewahrt. 
+- Digitalisierte Daten sind eine Umwandlung analoger Daten in digitale Form. 
+- Born-digital data haben keine analoge Representation. 
 :::  

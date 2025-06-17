@@ -24,23 +24,24 @@ Nach Abschluss dieser Einheit sollten die Teilnehmenden in der Lage sein
   
 ## Metadaten: Typen, Funktionen und Kontexte
 
-Metadata is a form of data that describes other data. Metadata provides meaningful information that makes it easier to find, identify, understand, handle, and preserve the primary data.
+Metadaten sind Daten, die andere Daten beschreiben. Metadaten liefern aussagekräftige Informationen, die das Auffinden, Identifizieren, Verstehen, Verarbeiten und Aufbewahren der Primärdaten erleichtern.
 
-Data itself can be structured or "raw," meaning unprocessed or unstructured. In contrast, metadata is always processed and structured, designed to be understandable by both humans and machines. Metadata serves a functional purpose, such as organising materials in a catalog or enabling the search and retrieval of resources in a database. It helps convey essential attributes of data, such as its origin, time period, and geographic coverage.
+Daten selbst können strukturiert oder „roh“ sein, d. h. unverarbeitet oder unstrukturiert. Im Gegensatz dazu sind Metadaten immer verarbeitet und strukturiert und so konzipiert, dass sie sowohl für Menschen als auch für Maschinen verständlich sind. Metadaten erfüllen einen funktionalen Zweck, z. B. die Organisation von Materialien in einem Katalog oder die Ermöglichung der Suche und des Abrufs von Ressourcen in einer Datenbank. Sie helfen dabei, wesentliche Eigenschaften von Daten zu vermitteln, wie z. B. deren Herkunft, Zeitraum und geografische Abdeckung.
 
-There are three major **types of metadata**:
 
-**Descriptive metadata** describes a resource for purposes such as discovery and identification. It can include elements such as title, author, date of creation, medium, dimension, and keywords.
+Es gibt drei **Haupttypen von Metadaten**:
 
-Descriptive metadata is crucial for discovering and identifying resources like books, journal articles, or digital archives in humanities disciplines, for cataloguing and analyzing artworks in museum databases or academic studies, and supports historians in locating and studying primary sources.
+**Deskriptive Metadaten** beschreiben eine Ressource für Zwecke wie Auffindbarkeit und Identifizierung. Sie können Elemente wie Titel, Autor, Erstellungsdatum, Medium, Abmessungen und Schlüsselwörter enthalten.
 
-**Structural metadata** indicates how composite objects are assembled.
+Deskriptive Metadaten sind entscheidend für das Auffinden und Identifizieren von Ressourcen wie Büchern, Zeitschriftenartikeln oder digitalen Archiven in den Geisteswissenschaften, für die Katalogisierung und Analyse von Kunstwerken in Museumsdatenbanken oder wissenschaftlichen Studien und unterstützen Historiker*innen beim Auffinden und Studieren von Primärquellen.
 
-For example, the structural metadata of a digitised medieval manuscript in an online archive defines the hierarchy and organization of the manuscript:
+**Strukturele Metadaten** geben Auskunft darüber, wie zusammengesetzte Objekte aufgebaut sind bzw. wie ihre einzelnen Bestandteile miteinander verknüpft sind.
 
-- Page order (e.g., folio 1 recto, folio 1 verso)
-- Relationships between sections (e.g., chapters, marginalia, glosses)
-- Links between text and corresponding images, such as illuminations or annotations
+Zum Beispiel definiert die strukturelle Metadatenbeschreibung eines digitalisierten mittelalterlichen Manuskripts in einem Online-Archiv die Hierarchie und Organisation des Manuskripts:
+
+- Seitenreihenfolge (z.B., Folio 1 recto, Folio 1 verso)
+- Beziehungen zwischen Abschnitten (z. B. Kapitel, Randbemerkungen, Glossen)
+- Verknüpfungen zwischen Text und entsprechenden Abbildungen, etwa Buchmalereien oder Annotationen.
 
 **Administrative metadata** provides information to help manage a resource, such as when and how it was created, file type and other technical information, and who can access it. There are several subsets of administrative data, including: 
 

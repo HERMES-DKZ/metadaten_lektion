@@ -37,24 +37,23 @@ Woher beziehen Sie Ihre Informationen?
 - Haben Sie schon einmal ein Archiv persönlich besucht, um vor Ort zu recherchieren?
 - Haben Sie schon einmal die Website eines Museums oder einer Bibliothek genutzt, um digitale Ressourcen zu recherchieren?
 
-Think about how many aspects of your work and daily life are now digital and how much of this vast digitalisation feels like second nature.
+Reflektieren Sie, wie sehr Digitalität inzwischen verschiedene Bereiche Ihrer beruflichen und privaten Lebenswelt durchdringt – und wie viel davon sich bereits ganz selbstverständlich anfühlt.
 
 
 
 ::::::::::::::::::::::::::::::::::::: challenge 
 
-Reflect on the last topic you worked on. Look for online resources that could support your research or deepen your understanding. 
-What challenges did you encounter when researching or interpreting information published online?
+Reflektieren Sie das letzte Thema, an dem Sie gearbeitet haben. Suchen Sie nach Online-Ressourcen, die Ihre Forschung unterstützen oder Ihr Verständnis vertiefen könnten.
+Mit welchen Herausforderungen waren Sie bei der Recherche oder Interpretation online verfügbarer Informationen konfrontiert?
 :::::::::::::::::::::::: 
 
 
 
-**digitalisation profoundly impacts the humanities by transforming how knowledge is produced, accessed, and interpreted. Almost everything today is reduced to data, interconnected through processes of digitization, visualization, and publication. Culture and history are increasingly manifested in networked forms, a development greatly enhanced by digital technologies.**
+**Die Digitalisierung beeinflusst die Geisteswissenschaften grundlegend, indem sie die Art und Weise verändert, wie Wissen erzeugt, zugänglich gemacht und interpretiert wird. Heute wird nahezu alles in Daten übersetzt und durch Prozesse wie Digitalisierung, Visualisierung und Veröffentlichung miteinander vernetzt. Kultur und Geschichte treten zunehmend in vernetzten Formen hervor – ein Wandel, der durch digitale Technologien erheblich vorangetrieben wird.**
 
-In this context, **data** and **metadata** play an essential roles. **Data** refers to raw information such as texts, images, or records, while **metadata** provides context — descriptions, tags, or details about how and when the data was created.
+In diesem Zusammenhang spielen **Daten** und **Metadaten** eine wichtige Rolle. **Daten** sind unverarbeitete Informationen wie Texte, Bilder oder Einträge in einer Datenbank. **Metadaten** liefern den Kontext – also Beschreibungen, Schlagworte oder Informationen darüber, wie und wann die Daten entstanden sind.
 
-
-The foundation of digitalisation is the creation of data. Whether it's text, image, or sound, everything is converted into data that must be described and organized. This is where metadata, i.e. information about the data, becomes crucial.
+Die Digitalisierung beginnt mit der Umwandlung von Inhalten in Daten. Ganz gleich, ob es sich um Texte, Bilder oder Töne handelt – all diese Inhalte werden in digitaler Form als Daten gespeichert. Damit diese Daten sinnvoll genutzt, gefunden und verstanden werden können, müssen sie beschrieben und geordnet werden. Genau hier kommen Metadaten ins Spiel: Sie liefern Informationen über die Daten – etwa darüber, was sie darstellen, wann sie entstanden sind oder wie sie verwendet werden können.
 
 
 When working with digital resources, both data and metadata are critical for organizing, searching, and interpreting information. Your challenges with doing research online reflect the complexities of managing these elements. These complexities include ensuring accuracy, maintaining context, and effectively handling large amounts of information.

@@ -79,20 +79,20 @@ Es hängt vom Kontext ab, ob es als Daten (das Buch selbst) oder als Metadaten (
   
 Die Unterscheidung zwischen Daten und Metadaten hängt oft vom Kontext ab, in dem die Information verwendet wird. Daten und Metadaten sind relative Begriffe – was in einem Zusammenhang als „Daten“ dient, kann in einem anderen als „Metadaten“ fungieren.
 
-For example, the text of "Alice's Adventures in Wonderland" — its words, chapters, and narrative — is typically considered data when analysing its content, themes, or linguistic features. However, the title "Alice's Adventures in Wonderland"" is metadata within the context of the book's cataloguing. In a library catalogue, the title is part of a structured system of metadata used to describe, organise, and enable the discovery of the book (along with other metadata fields like author, publication date, and ISBN).
+Zum Beispiel wird der Text von „Alice’s Adventures in Wonderland“ – also seine Worte, Kapitel und Erzählstruktur – in der Regel als Daten betrachtet, wenn der Inhalt, die Themen oder sprachliche Merkmale analysiert werden. Der Titel „Alice’s Adventures in Wonderland“ hingegen gilt im Kontext der Katalogisierung als Metadatum. In einem Bibliothekskatalog ist der Titel Teil eines strukturierten Metadatensystems, das dazu dient, das Buch zu beschreiben, zu ordnen und auffindbar zu machen – gemeinsam mit anderen Metadaten wie Autor, Erscheinungsdatum oder ISBN.
 
-This relativity highlights the importance of understanding the different levels at which we interact with information. In essence:
+Diese Relativität unterstreicht, wie wichtig es ist, die unterschiedlichen Ebenen zu verstehen, auf denen wir mit Informationen interagieren. Im Kern gilt:
 
-- **Data refers to the primary subject of study or use (e.g., the full text of the book).**
-- **Metadata refers to information about that data, designed to describe, contextualise, or facilitate its organisation and retrieval (e.g., the title, author, or genre classification).**
+- **Daten beziehen sich auf den eigentlichen Untersuchungs- oder Nutzungsgegenstand (z. B. den vollständigen Text des Buches).**
+- **Metadaten sind Informationen über diese Daten; sie dienen dazu, sie zu beschreiben, einzuordnen oder ihre Organisation und Auffindbarkeit zu erleichtern (z. B. Titel, Autor oder Genrezuordnung).**
 
-This interplay between data and metadata underscores the layered nature of information management and the need for precision when working with both.
+Dieses Zusammenspiel von Daten und Metadaten verdeutlicht die vielschichtige Natur des Informationsmanagements und die Notwendigkeit von Präzision im Umgang mit beiden.
     
     
 ::: keypoints
 
-- Descriptive metadata describes a resource for purposes.
-- Structural metadata indicates how composite objects are assembled.
-- Administrative metadata provides information to help manage a resource.
+- Beschreibende Metadaten beschreiben eine Ressource zu bestimmten Zwecken.
+- Strukturelle Metadaten geben an, wie zusammengesetzte Objekte aufgebaut sind.
+- Administrative Metadaten liefern Informationen zur Verwaltung einer Ressource.
 
 :::

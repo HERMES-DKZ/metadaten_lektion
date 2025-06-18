@@ -8,32 +8,34 @@ exercises: 0
 
 ### Framing questions 
 
-- What does digitalisation mean for the humanities?  
-- How is digitalisation changing the humanities?
+- Was bedeutet die Digitalisierung für die Geisteswissenschaften?
+- Wie verändert die Digitalisierung die Geisteswissenschaften?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
   
 ::::::::::::::::::::::::::::::::::::: objectives  
 
-After completing this episode, participants should be able to
+Nach Abschluss dieser Einheit sollten die Teilnehmenden in der Lage sein,
 
-- providing a basic explanation of the theoretical and methodological implications of working with data.
+- eine grundlegende Erklärung der theoretischen und methodischen Implikationen der Arbeit mit Daten zu geben.
 ::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Introduction
+## Einführung
 
-digitalisation profoundly impacts the humanities by transforming how knowledge is produced, accessed, and interpreted. Almost everything today is reduced to data, interconnected through processes of digitization, visualization, and publication. Culture and history are increasingly manifested in networked forms, a development greatly enhanced by digital technologies. In this context, data and metadata play essential roles. This lesson is developed as an introduction to the meaning of data and metadata in the Humanities. Learners will get familiar with concepts of data and metadata as well as formats such as XML and JSON and metadata standards.
+Die Digitalisierung beeinflusst die Geisteswissenschaften grundlegend, indem sie die Art und Weise verändert, wie Wissen erzeugt, zugänglich gemacht und interpretiert wird. Heute wird nahezu alles in Daten übersetzt und durch Prozesse wie Digitalisierung, Visualisierung und Veröffentlichung miteinander vernetzt. Kultur und Geschichte treten zunehmend in vernetzten Formen hervor – ein Wandel, der durch digitale Technologien erheblich vorangetrieben wird. In diesem Kontext nehmen Daten und Metadaten eine zentrale Rolle ein.
+Diese Lektion dient als Einführung in die Bedeutung von Daten und Metadaten in den Geisteswissenschaften. Die Teilnehmenden werden mit den grundlegenden Konzepten von Daten und Metadaten sowie mit Formaten wie XML und JSON sowie gängigen Metadatenstandards vertraut gemacht.
 
 ## Exploratory Questions
 
-Take a moment to reflect: 
+Überlege: 
 
-- Where do you get your information? 
-- How do you write your texts? 
-- How do you connect with institutions, both academically and professionally? 
-- Do you rely on paper copies of archival documents, or do you use digital photos of them? 
-- Have you ever visited an archive to conduct research in person? 
-- Have you ever explored a museum’s (or library’s) website to access digital resources? 
+Woher beziehen Sie Ihre Informationen?
+
+- Wie verfassen Sie Ihre Texte?
+- Wie pflegen Sie Ihre Kontakte zu Institutionen, sowohl im akademischen als auch im beruflichen Bereich?
+- Nutzen Sie eher Papierkopien von Archivdokumenten oder digitale Fotografien davon?
+- Haben Sie schon einmal ein Archiv persönlich besucht, um vor Ort zu recherchieren?
+- Haben Sie schon einmal die Website eines Museums oder einer Bibliothek genutzt, um digitale Ressourcen zu recherchieren?
 
 Think about how many aspects of your work and daily life are now digital and how much of this vast digitalisation feels like second nature.
 

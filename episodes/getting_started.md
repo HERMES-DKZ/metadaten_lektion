@@ -56,37 +56,43 @@ In diesem Zusammenhang spielen **Daten** und **Metadaten** eine wichtige Rolle. 
 Die Digitalisierung beginnt mit der Umwandlung von Inhalten in Daten. Ganz gleich, ob es sich um Texte, Bilder oder Töne handelt – all diese Inhalte werden in digitaler Form als Daten gespeichert. Damit diese Daten sinnvoll genutzt, gefunden und verstanden werden können, müssen sie beschrieben und geordnet werden. Genau hier kommen Metadaten ins Spiel: Sie liefern Informationen über die Daten – etwa darüber, was sie darstellen, wann sie entstanden sind oder wie sie verwendet werden können.
 
 
-When working with digital resources, both data and metadata are critical for organizing, searching, and interpreting information. Your challenges with doing research online reflect the complexities of managing these elements. These complexities include ensuring accuracy, maintaining context, and effectively handling large amounts of information.
-Before moving to the more hands-on parts of the lesson, let’s briefly discuss **the areas in which digitization is important for the humanities**.
+Hier ist eine übersetzte und stilistisch verbesserte Version mit einem didaktischen Tonfall:
+
+---
+
+Beim Arbeiten mit digitalen Ressourcen sind sowohl **Daten** als auch **Metadaten** entscheidend – sie ermöglichen es, Informationen zu ordnen, gezielt zu suchen und sinnvoll zu interpretieren. Die Herausforderungen, denen Sie bei Online-Recherchen begegnen, spiegeln die Komplexität im Umgang mit diesen Elementen wider. Dazu zählen unter anderem die Sicherstellung der Genauigkeit, der Erhalt des Kontexts sowie der Umgang mit großen Informationsmengen.
+
+Bevor wir in den praktischen Teil der Lerneinheit übergehen, wollen wir kurz besprechen, **in welchen Bereichen die Digitalisierung für die Geisteswissenschaften eine zentrale Rolle spielt**.
 
 
-#### 1. Transformation of Research Methods
-Digital tools allow researchers to work with large amounts of data, such as scanned texts, images, or historical documents. Techniques like text mining, pattern recognition, and data visualization help uncover new insights that traditional methods can’t easily achieve. Don’t worry if you’re not familiar with these methods. Understanding the concepts of data and metadata is the first step into these topics.
-The digitization of collections in galleries, libraries, archives, and museums provides easy online access to a wealth of historical and cultural materials. This enables researchers to study sources from anywhere in the world, significantly broadening the scope of their work.
+#### 1. Transformation der Forschungsmethoden
+Digitale Werkzeuge ermöglichen es Forschenden, mit großen Datenmengen zu arbeiten, etwa mit eingescannten Texten, Bildern oder historischen Dokumenten. Techniken wie Text-Mining, Mustererkennung und Datenvisualisierung helfen dabei, neue Erkenntnisse zu gewinnen, die mit traditionellen Methoden nur schwer zu erreichen sind. Machen Sie sich keine Sorgen, wenn Ihnen diese Methoden noch nicht vertraut sind – das Verständnis der Konzepte von Daten und Metadaten ist der erste Schritt, um sich diesen Themen zu nähern.
+Die Digitalisierung von Sammlungen in Galerien, Bibliotheken, Archiven und Museen ermöglicht den einfachen Online-Zugang zu einer Fülle historischer und kultureller Materialien. Dadurch können Forschende Quellen von überall auf der Welt studieren und ihr Arbeitsfeld deutlich erweitern.
 
-#### 2. Changes in Dissemination of Knowledge and Impact on Teaching and Learning
-Digital platforms have democratized access to research by enabling open-access publishing, allowing scholars to share their work with a global audience without the barriers of print publication.
-Digital humanities projects often combine text, audio, video, and interactive elements, creating more dynamic and engaging forms of scholarship. This shifts how research is presented and consumed, moving beyond customary academic articles or monographs. Digital platforms facilitate more interactive and collaborative forms of learning.
+#### 2. Veränderungen in der Wissensvermittlung und Auswirkungen auf Lehre und Lernen
+Digitale Plattformen haben den Zugang zu Forschung demokratisiert, indem sie Open-Access-Publikationen ermöglichen. So können Wissenschaftlerinnen und Wissenschaftler ihre Arbeiten einem globalen Publikum zugänglich machen, ohne die Barrieren der Printveröffentlichung.
+Digitale Geisteswissenschaftsprojekte verbinden oft Text, Audio, Video und interaktive Elemente und schaffen so dynamischere und ansprechendere Formen wissenschaftlicher Arbeit. Dadurch verändert sich die Art und Weise, wie Forschung präsentiert und rezipiert wird – weg von traditionellen Fachartikeln oder Monografien. Digitale Plattformen fördern zudem interaktivere und kollaborative Lernformen.
 
-#### 3. Preservation of Cultural Heritage
-Digitization helps preserve cultural heritage by creating digital copies of physical artefacts, texts, and sites, preserving their digital model despite their physical decay.
+#### 3. Erhalt des kulturellen Erbes
+Die Digitalisierung unterstützt den Erhalt des kulturellen Erbes, indem sie digitale Kopien von physischen Artefakten, Texten und Kulturerbe-Orten erstellt. So bleibt ihr digitales Abbild erhalten, selbst wenn die Originale im Laufe der Zeit verfallen.
 
-#### 4. Philosophical and Ethical Implications
-The digital turn in the humanities raises important questions about the nature of knowledge, authorship, and authenticity in the digital age. Scholars critically examine how digital tools shape our understanding of culture, identity, and history.
-Digital tools can democratize knowledge but also reinforce biases, depending on how they are designed and used.
+#### 4. Philosophische und ethische Implikationen
+Der digitale Wandel in den Geisteswissenschaften wirft wichtige Fragen zur Natur von Wissen, Urheberschaft und Authentizität im digitalen Zeitalter auf. Wissenschaftlerinnen und Wissenschaftler hinterfragen kritisch, wie digitale Werkzeuge unser Verständnis von Kultur, Identität und Geschichte beeinflussen.
+Digitale Werkzeuge können Wissen demokratisieren, aber je nach Gestaltung und Anwendung auch bestehende Vorurteile verstärken.
 
-#### 5. Interdisciplinary Collaboration
-Digital humanities are inherently interdisciplinary, bringing together traditional humanities scholars with computer scientists and data analysts. This collaboration leads to new research questions, methods, and forms of knowledge.
+#### 5. Interdisziplinäre Zusammenarbeit
+  Die Digital Humanities sind von Natur aus interdisziplinär: Sie bringen Geisteswissenschaftler*innen mit Informatiker*innen und Datenanalyst*innen zusammen. Diese Zusammenarbeit eröffnet neue Forschungsfragen, Methoden und Erkenntnisformen.
 
 
 ::::::::::::::::::::::::::::::::::::: keypoints 
-Areas where digitization is important:  
+Bereiche, in denen die Digitalisierung eine wichtige Rolle spielt:
 
-- research methods
-- dissemination
-- cultural heritage
-- collaboration
-- preservation 
+- Forschungsmethoden
+- Wissensvermittlung
+- Kulturerbe
+- Zusammenarbeit
+- Erhaltung / Bewahrung
+
 
 ::::::::::::::::::::::::::::::::::::::::::::::::
 

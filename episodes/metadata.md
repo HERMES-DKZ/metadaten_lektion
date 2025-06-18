@@ -55,29 +55,29 @@ Administrative Metadaten sind entscheidend für das Management des Lebenszyklus 
 
 ## Challenge 1: 
 
-Go back again to the online resources we reviewed. Find the data to which the metadata relates. Are you able to identify what type of metadata this is? 
+Gehe noch einmal zu den Online-Ressourcen zurück. Finde die Daten, auf die sich die Metadaten beziehen. Kannst du feststellen, um welche Art von Metadaten es sich handelt? 
 
 :::::::::::::::::::::::: solution 
 
 ## Output
-The objects searchable in the Met Museum's online collection primarily feature descriptive metadata, such as title, author, date, and size. Administrative metadata is largely limited to the inventory number, though additional administrative (meta)data, potentially sensitive in nature, may remain unpublished. Structural metadata is generally scarce, despite the suitability of many well-documented art and cultural objects for such detailed representation. However, creating structural metadata would require extensive indexing, which is often impractical. Institutions typically prioritise basic cataloguing with minimal metadata, while in-depth cataloguing is frequently undertaken as part of specific projects.
+Die in der Online-Sammlung des Met Museum durchsuchbaren Objekte enthalten in erster Linie beschreibende Metadaten wie Titel, Urheber, Entstehungsdatum und Maße. Administrative Metadaten beschränken sich weitgehend auf die Inventarnummer, wobei zusätzliche – mitunter sensible – administrative (Meta-)Daten möglicherweise nicht veröffentlicht werden. Strukturelle Metadaten sind in der Regel nur in geringem Umfang vorhanden, obwohl sich viele gut dokumentierte Kunst- und Kulturobjekte durchaus für eine detaillierte strukturelle Erfassung eignen würden. Die Erstellung solcher Metadaten erfordert jedoch eine umfassende Bearbeitung, die oft nicht praktikabel ist. Institutionen konzentrieren sich daher meist auf eine grundlegende Erschließung mit minimalen Metadaten; eine vertiefte Katalogisierung erfolgt häufig nur im Rahmen spezifischer Projekte.
 :::
 :::  
     
 ::: challenge
 ## Challenge 2: 
 
-Is the book “Alice's Adventures in Wonderland” data or metadata?
+Ist das Buch „Alice’s Adventures in Wonderland“ („Alice im Wunderland“) Daten oder Metadaten?
 
 ::: solution 
 
 ## Output
-It depends on the context whether it is considered data (the book itself) or metadata (title in a library catalogue). 
+Es hängt vom Kontext ab, ob es als Daten (das Buch selbst) oder als Metadaten (der Titel in einem Bibliothekskatalog) betrachtet wird. 
 
 :::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::  
   
-The distinction between data and metadata often depends on the context in which the information is used. Data and metadata are relative concepts, and what serves as "data" in one scenario may function as "metadata" in another.
+Die Unterscheidung zwischen Daten und Metadaten hängt oft vom Kontext ab, in dem die Information verwendet wird. Daten und Metadaten sind relative Begriffe – was in einem Zusammenhang als „Daten“ dient, kann in einem anderen als „Metadaten“ fungieren.
 
 For example, the text of "Alice's Adventures in Wonderland" — its words, chapters, and narrative — is typically considered data when analysing its content, themes, or linguistic features. However, the title "Alice's Adventures in Wonderland"" is metadata within the context of the book's cataloguing. In a library catalogue, the title is part of a structured system of metadata used to describe, organise, and enable the discovery of the book (along with other metadata fields like author, publication date, and ISBN).
 
